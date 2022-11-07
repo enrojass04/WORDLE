@@ -1,0 +1,38 @@
+.primary-color{
+	-fx-background-color: #000000;
+}
+
+.secondary-color{
+	-fx-background-color: #282828;
+}
+
+.round-border{
+	-fx-background-radius: 100;
+	
+}
+
+Text { 
+ -fx-font-smoothing-type: lcd;
+ -fx-fill: white;
+ -fx-font-weight: bold;
+
+ 
+}
+
+.buttonR{
+	-fx-background-color: white;
+	-fx-font-weight: bold;
+	
+
+	
+}
+
+.text-area {
+   
+    -fx-text-fill: #000000;
+   
+}
+
+.text-area .content {
+    -fx-background-color: #ffffff;
+}

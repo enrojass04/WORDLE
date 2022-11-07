@@ -4,7 +4,6 @@ module Wordle {
 	requires javafx.base;
 	requires javafx.graphics;
 	requires java.sql;
-	requires Atxy2k;
 	requires java.desktop;
 	
 	opens co.edu.poli.wordle.controller to javafx.graphics, javafx.fxml, javafx.base;
